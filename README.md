@@ -1,3 +1,4 @@
 ### momogram - frontend with (GraphQL + Hooks)
 
-- [x] is it working?
+- [x] using not {Components/Presenter} Structure but Hooks
+  
